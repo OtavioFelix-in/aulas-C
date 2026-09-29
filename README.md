@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/puc-campinas.png" alt="Pontifícia Universidade Católica de Campinas" width="600">
+<img src="assets/puc-campinas.png" alt="Pontifícia Universidade Católica de Campinas" width="300">
 
 # Aulas de C
 
