@@ -57,6 +57,6 @@ gcc arquivo.c -o programa
 
 <div align="center">
 
-Feito comdurante as aulas de C · **PUC-Campinas**
+Feito durante as aulas de C · **PUC-Campinas**
 
 </div>
