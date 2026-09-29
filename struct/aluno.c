@@ -1,5 +1,4 @@
 // structs vamos fazer questões sobre estrutura de dados em C
-/*
 #include <stdio.h>
 
 struct Aluno {
@@ -27,4 +26,3 @@ int main() {
 
     return 0;
 }
-*/
