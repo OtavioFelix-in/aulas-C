@@ -24,9 +24,9 @@ Serve como um **portfólio / repertório** do que já estudei e pratiquei em sal
 
 ```
 aulas-C/
-├── assets/          # Imagens usadas no README
-├── aula-01/         # Atividades da aula 01
-├── aula-02/         # Atividades da aula 02
+├── assets/
+├── aula-01/
+├── aula-02/
 └── ...
 ```
 
