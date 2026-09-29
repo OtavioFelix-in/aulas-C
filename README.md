@@ -2,7 +2,7 @@
 
 <img src="assets/puc-campinas.png" alt="Pontifícia Universidade Católica de Campinas" width="600">
 
-# 📚 Aulas de C
+#Aulas de C
 
 ### Repertório das minhas atividades de sala de aula
 
@@ -14,13 +14,13 @@
 
 ---
 
-## 👋 Sobre
+##Sobre
 
 Este repositório reúne as **atividades e exercícios** que resolvo nas aulas de **Programação em C** na **Pontifícia Universidade Católica de Campinas (PUC-Campinas)**.
 
 Serve como um **portfólio / repertório** do que já estudei e pratiquei em sala, organizado por aula.
 
-## 🗂️ Estrutura
+##Estrutura
 
 ```
 aulas-C/
@@ -32,13 +32,13 @@ aulas-C/
 
 > Cada pasta de aula contém os enunciados das questões e as soluções em `.c`.
 
-## 📝 Atividades
+##Atividades
 
 | Aula | Tema | Questões |
 |:----:|------|:--------:|
 | 01 | _em breve_ | — |
 
-## ⚙️ Como compilar e executar
+##Como compilar e executar
 
 Com o `gcc` instalado:
 
@@ -47,7 +47,7 @@ gcc arquivo.c -o programa
 ./programa
 ```
 
-## 🛠️ Tecnologias
+##Tecnologias
 
 - **Linguagem:** C
 - **Compilador:** GCC
@@ -57,6 +57,6 @@ gcc arquivo.c -o programa
 
 <div align="center">
 
-Feito com 💙 durante as aulas de C · **PUC-Campinas**
+Feito comdurante as aulas de C · **PUC-Campinas**
 
 </div>
