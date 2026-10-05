@@ -25,18 +25,28 @@ Serve como um **portfólio / repertório** do que já estudei e pratiquei em sal
 ```
 aulas-C/
 ├── assets/
-├── aula-01/
-├── aula-02/
-└── ...
+├── ola-mundo/
+├── variaveis/
+├── entrada-saida/
+├── if-else/
+├── while/
+├── for/
+└── struct/
 ```
 
-> Cada pasta de aula contém os enunciados das questões e as soluções em `.c`.
+> Cada pasta é um tema e contém as soluções em `.c` (e listas/gabaritos em PDF, quando houver).
 
 ## Atividades
 
-| Aula | Tema | Questões |
-|:----:|------|:--------:|
-| 01 | _em breve_ | — |
+| Pasta | Tema |
+|-------|------|
+| `ola-mundo` | Primeiro programa |
+| `variaveis` | Declaração de variáveis e tipos |
+| `entrada-saida` | `printf` e `scanf` |
+| `if-else` | Condicionais |
+| `while` | Laço `while` |
+| `for` | Laço `for` |
+| `struct` | Estruturas |
 
 ## Como compilar e executar
 
